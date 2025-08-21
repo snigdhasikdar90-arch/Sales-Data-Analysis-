@@ -27,7 +27,7 @@ I built an **interactive Excel dashboard** applying **basic Excel concepts** lik
 - **Customer Growth:** The customer base increased steadily from 2014 to 2017.
 
 
-![Image]()
+![Image](https://github.com/snigdhasikdar90-arch/Sales-Data-Analysis-/blob/main/Sales%20Data%20Dashboard%20picture.png?raw=true)
 
   
 
