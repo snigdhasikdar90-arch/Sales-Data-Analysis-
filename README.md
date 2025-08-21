@@ -24,7 +24,12 @@ I built an **interactive Excel dashboard** applying **basic Excel concepts** lik
 - **Geography:** States like California and New York contributed the largest sales volumes.  
 - **Customer Contribution:** A few key customers (e.g., Tamara Chand, Raymond Buch) significantly impacted profits.  
 - **Monthly Trends:** Sales spiked in the last quarter of the year (November–December).  
-- **Customer Growth:** The customer base increased steadily from 2014 to 2017.  
+- **Customer Growth:** The customer base increased steadily from 2014 to 2017.
+
+
+![Image]()
+
+  
 
 ## 🚀 Conclusion
 This project highlights how **basic Excel tools** can reveal powerful insights:  
