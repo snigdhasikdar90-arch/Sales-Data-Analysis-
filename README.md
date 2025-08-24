@@ -41,6 +41,9 @@ This project highlights how **basic Excel tools** can reveal powerful insights:
 ## 📂 Deliverables
 - **Interactive Excel Dashboard** (with slicers for year and category filters)  
 - Analysis by **category, state, customer, and time**  
-- Business recommendations to improve profitability  
+- Business recommendations to improve profitability
+
+  # Contact :
+  Linkedin: www.linkedin.com/in/snigdha-sikdar-85b391377
 
 
